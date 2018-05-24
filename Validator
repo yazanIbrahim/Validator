@@ -1,11 +1,6 @@
 
 <?php
-/**
- * Created by PhpStorm.
- * User: Ryodan
- * Date: 2/22/2018
- * Time: 2:20 PM
- */
+
 
 class Validator{
 
